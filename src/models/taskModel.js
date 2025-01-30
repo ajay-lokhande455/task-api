@@ -15,7 +15,7 @@ let tasks = [{
     }
 
 ]; // In-memory storage
-let idCounter = 1;
+let idCounter = 4;
 
 class Task {
     constructor(title, description) {
