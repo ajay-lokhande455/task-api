@@ -37,8 +37,8 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd task-management-api
+git clone https://github.com/ajay-lokhande455/task-api.git
+cd task-api
 ```
 
 ### 2. Install Dependencies
