@@ -54,7 +54,7 @@ PORT=4500
 
 ### 4. Run the Server
 ```bash
-npm start
+npm run dev
 ```
 The API will be accessible at [http://localhost:4500](http://localhost:4500).
 
